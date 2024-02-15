@@ -10,5 +10,5 @@ git push -u origin main
 after making changes
 
 git add .
-git commit -m "after name"
+git commit -m "first commit"
 git push -u origin main
