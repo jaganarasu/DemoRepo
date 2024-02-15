@@ -5,3 +5,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/jaganarasu/DemoRepo.git
 git push -u origin main
+
+
+after making changes
+
+git add .
+git commit -m "after name"
+git push -u origin main
